@@ -12,7 +12,7 @@ setup(
         'pandas==1.0.3',
         'SQLAlchemy==1.3.17',
         'psycopg2-binary==2.8.5',
-        'requests==2.22.0',
+        'requests==2.31.0',
     ],
     extras_require={
         'dev': [
